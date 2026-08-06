@@ -1,0 +1,37 @@
+{
+  "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain": {
+    "project_page": "https://yuvalgol123.github.io/BrainCause/",
+    "paper": "https://arxiv.org/abs/2605.23895",
+    "code": "",
+    "dataset": "",
+    "demo": ""
+  },
+  "ConfIC-RCA: Statistically Grounded Efficient Estimation of Segmentation Quality": {
+    "project_page": "",
+    "paper": "https://ieeexplore.ieee.org/abstract/document/11458647/",
+    "code": "https://github.com/matiascosarinsky/Conformal-In-Context-RCA",
+    "dataset": "",
+    "demo": ""
+  },
+  "CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images": {
+    "project_page": "",
+    "paper": "https://arxiv.org/abs/2512.10715",
+    "code": "https://github.com/matiascosarinsky/CheXmask-U",
+    "dataset": "https://huggingface.co/datasets/matiascosarinsky/CheXmask-U",
+    "demo": ""
+  },
+  "Brain-IT-VQA: From Brain Signals to Answers": {
+    "project_page": "https://matiascosarinsky.github.io/brain-it-vqa/",
+    "paper": "https://arxiv.org/abs/2605.29588",
+    "code": "",
+    "dataset": "https://huggingface.co/datasets/matiascosarinsky/NSD-VQA",
+    "demo": ""
+  },
+  "BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain": {
+    "project_page": "https://navvewas.github.io/BrainExplore/",
+    "paper": "https://arxiv.org/abs/2512.08560",
+    "code": "",
+    "dataset": "",
+    "demo": "https://huggingface.co/spaces/matiascosarinsky/BrainExplore-demo"
+  }
+}

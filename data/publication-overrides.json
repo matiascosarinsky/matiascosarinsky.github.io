@@ -1,0 +1,11 @@
+{
+  "CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images": {
+    "equal_contributors": []
+  },
+  "BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain": {
+    "equal_contributors": ["Navve Wasserman", "Matias Cosarinsky"]
+  },
+  "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain": {
+    "equal_contributors": ["Yuval Golbari", "Navve Wasserman"]
+  }
+}

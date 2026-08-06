@@ -1,0 +1,119 @@
+[
+  {
+    "title": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
+    "authors": [
+      "Yuval Golbari",
+      "Navve Wasserman",
+      "Matias Cosarinsky",
+      "Roman Beliy",
+      "Aude Oliva",
+      "Antonio Torralba",
+      "Michal Irani",
+      "Tamar Rott Shaham"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint arXiv:2605.23895",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2605.23895"
+      }
+    ],
+    "figure": "assets/figures/from-activation-to-causality-discovery-of-causal-visual-representations-in/figure-1.png",
+    "equal_contributors": [
+      "Yuval Golbari",
+      "Navve Wasserman"
+    ]
+  },
+  {
+    "title": "ConfIC-RCA: Statistically Grounded Efficient Estimation of Segmentation Quality",
+    "authors": [
+      "Matias Cosarinsky",
+      "Ramiro Billot",
+      "Lucas Mansilla",
+      "Gabriel Jimenez",
+      "Nicolas Gaggión",
+      "Guanghui Fu",
+      "Tom Tirer",
+      "Enzo Ferrante"
+    ],
+    "year": 2026,
+    "venue": "IEEE Transactions on Medical Imaging",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11458647/"
+      }
+    ],
+    "figure": "assets/figures/confic-rca-statistically-grounded-efficient-estimation-of-segmentation-quality/figure-1.png",
+    "equal_contributors": []
+  },
+  {
+    "title": "CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images",
+    "authors": [
+      "Matias Cosarinsky",
+      "Nicolas Gaggion",
+      "Rodrigo Echeveste",
+      "Enzo Ferrante"
+    ],
+    "year": 2026,
+    "venue": "Medical Imaging with Deep Learning (MIDL)",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2512.10715"
+      }
+    ],
+    "figure": "assets/figures/chexmask-u-quantifying-uncertainty-in-landmark-based-anatomical-segmentation-for/arch_1col.png",
+    "equal_contributors": []
+  },
+  {
+    "title": "Brain-IT-VQA: From Brain Signals to Answers",
+    "authors": [
+      "Roman Beliy",
+      "Matias Cosarinsky",
+      "Oliver Heinimann",
+      "Navve Wasserman",
+      "Michal Irani"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint arXiv:2605.29588",
+    "links": [
+      {
+        "label": "Project Page",
+        "url": "https://mcosarinsky.github.io/brain-it-vqa/"
+      },
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2605.29588"
+      }
+    ],
+    "figure": "assets/figures/brain-it-vqa-from-brain-signals-to-answers/figure-1.png",
+    "equal_contributors": []
+  },
+  {
+    "title": "BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain",
+    "authors": [
+      "Navve Wasserman",
+      "Matias Cosarinsky",
+      "Yuval Golbari",
+      "Aude Oliva",
+      "Antonio Torralba",
+      "Tamar Rott Shaham",
+      "Michal Irani"
+    ],
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2512.08560",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2512.08560"
+      }
+    ],
+    "figure": "assets/figures/brainexplore-large-scale-discovery-of-interpretable-visual-representations-in-the/figure-1.png",
+    "equal_contributors": [
+      "Navve Wasserman",
+      "Matias Cosarinsky"
+    ]
+  }
+]
