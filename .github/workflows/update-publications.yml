@@ -42,22 +42,3 @@ jobs:
           git add data/publications.json assets/publication-links.json assets/figures
           git diff --cached --quiet || git commit -m "Update publications"
           git push
-
-      - name: Email new-publication notification
-        if: steps.update_with_summary.outputs.new_publications != ''
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: "New publication added to your website"
-          to: matias.cosarinsky@gmail.com
-          from: Website updater <${{ secrets.SMTP_USERNAME }}>
-          body: |
-            New publications were added:
-
-            ${{ steps.update_with_summary.outputs.new_publications }}
-
-            Add any Project Page, Code, Dataset, or Demo links in:
-            assets/publication-links.json
