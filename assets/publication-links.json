@@ -17,14 +17,14 @@
     "project_page": "",
     "paper": "https://arxiv.org/abs/2512.10715",
     "code": "https://github.com/matiascosarinsky/CheXmask-U",
-    "dataset": "https://huggingface.co/datasets/matiascosarinsky/CheXmask-U",
+    "dataset": "https://huggingface.co/datasets/mcosarinsky/CheXmask-U",
     "demo": ""
   },
   "Brain-IT-VQA: From Brain Signals to Answers": {
     "project_page": "https://matiascosarinsky.github.io/brain-it-vqa/",
     "paper": "https://arxiv.org/abs/2605.29588",
     "code": "",
-    "dataset": "https://huggingface.co/datasets/matiascosarinsky/NSD-VQA",
+    "dataset": "https://huggingface.co/datasets/mcosarinsky/NSD-VQA",
     "demo": ""
   },
   "BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain": {
